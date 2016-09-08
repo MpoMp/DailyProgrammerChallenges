@@ -83,3 +83,4 @@ If you've done any of the above tasks, fork the repo, make your changes and subm
 - [Jacob Herrington](https://github.com/jacob-on-github)
 - [Ryan Plant](https://github.com/ryanplant-au)
 - [Tyler Nivin](https://github.com/twn346)
+- [Michail Bogdanos](https://github.com/MpoMp)
